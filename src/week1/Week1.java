@@ -8,7 +8,15 @@ public class Week1 {
 		int bHeight = aHeight;
 		
 		String aName = "Mary";
+		
+		//modulo operator returns the remainder of a division of two numbers.
+		int num1 = 5;
+		
+		int num2 = 2;
+		
+		System.out.println(num1 % num2);
 
+		
 
 	}
 
